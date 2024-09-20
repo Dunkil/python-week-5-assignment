@@ -1,0 +1,6 @@
+Jambo, Kenya!
+Habari ya Nairobi.
+Uchumi ikoje sikuhizi.
+Appending new line 1.
+Appending new line 2.
+Appending new line 3.
